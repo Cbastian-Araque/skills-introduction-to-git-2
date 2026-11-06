@@ -1,3 +1,3 @@
-# This is a repository dedicated  exclusivly tolearning about the Github Foundation Certification
+# This is a repository dedicated  exclusivly to learning about the Github Foundation Certification
 
 > [View program](https://learn.github.com/certification/GHF)
